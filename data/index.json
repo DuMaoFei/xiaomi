@@ -1,0 +1,998 @@
+{
+    "src":[
+        {
+            "url":"src/assets/home-image/swiper-img-tj.jpg"
+        },
+        {
+            "url":"src/assets/home-image/swiper-img-tj1.jpg"
+        },
+        {
+            "url":"src/assets/home-image/swiper-img-tj2.jpg"
+        }
+    ],
+    "list_nav":[
+        {
+            "url":"issue",
+            "src":"src/assets/home-image/tj-nav-img.png"
+        },
+        {
+            "url":"crowdfunding",
+            "src":"src/assets/home-image/tj-nav-img1.png"
+        },
+        {
+            "src":"src/assets/home-image/tj-nav-img2.gif"
+        },
+        {
+            "src":"src/assets/home-image/tj-nav-img3.png"
+        },
+        {
+            "src":"src/assets/home-image/tj-nav-img4.png"
+        },
+         {
+            "src":"src/assets/home-image/tj-nav-img5.png"
+        },
+        {
+            "src":"src/assets/home-image/tj-nav-img6.jpg"
+        },
+        {
+            "src":"src/assets/home-image/tj-nav-img7.png"
+        },
+        {
+            "src":"src/assets/home-image/tj-nav-img8.png"
+        },
+        {
+            "src":"src/assets/home-image/tj-nav-img9.png"
+        }
+    ],
+    "list_shop":[
+        {   "id":1,
+            "list_name":"小米手机",
+            "AD_img":"src/assets/home-image/shop-img.jpg",
+            "title_img":"src/assets/home-image/shop-img1.jpg",
+            "list_info":[
+                {
+                    "id":"1",
+                    "src":"src/assets/home-image/shop-list-1.jpg",
+                    "name":"小米MIX 2S",
+                    "des":"四曲面陶瓷机身，骁龙845",
+                    "before":"2999",
+                    "now":"1799",
+                    "rise":""
+                
+                },
+                {
+                    "id":"2",
+                    "src":"src/assets/home-image/shop-list-2.jpg",
+                    "name":"小米MIX 3",
+                    "des":"DxO百分拍照手机",
+                    "before":"3599",
+                    "now":"2599",
+                    "rise":""
+                
+                },
+                {
+                    "id":"3",
+                    "src":"src/assets/home-image/shop-list-3.jpg",
+                    "name":"Redmi 7",
+                    "des":"4000mAh超长续航",
+                    "before":"799",
+                    "now":"699",
+                    "rise":""
+                
+                },
+                {
+                    "id":"4",
+                    "src":"src/assets/home-image/shop-list-4.jpg",
+                    "name":"黑鲨游戏手机 2",
+                    "des":"骁龙855，立体触控",
+                    "before":"3499",
+                    "now":"2699",
+                    "rise":""
+                
+                }
+            ]
+        },
+        {   "id":2,
+            "list_name":"小米电视",
+            "AD_img":"src/assets/home-image/ds-img1.jpg",
+            "title_img":"src/assets/home-image/ds-img2.jpg",
+            "list_info":[
+                {
+                    "id":"5",
+                    "src":"src/assets/home-image/ds-list-1.jpg",
+                    "name":"小米电视4A 65英寸",
+                    "des":"4K HDR 人工智能语音系统",
+                    "before":"",
+                    "now":"2999",
+                    "rise":""
+                
+                },
+                {
+                    "id":"6",
+                    "src":"src/assets/home-image/ds-list-2.jpg",
+                    "name":"小米电视4X 43英寸",
+                    "des":"FHD全高清屏，人工智能语音",
+                    "before":"1499",
+                    "now":"1399",
+                    "rise":""
+                
+                },
+                {
+                    "id":"7",
+                    "src":"src/assets/home-image/ds-list-3.jpg",
+                    "name":"小米电视4C 50英寸",
+                    "des":"4K HDR，钢琴烤漆",
+                    "before":"",
+                    "now":"1699",
+                    "rise":""
+                
+                },
+                {
+                    "id":"8",
+                    "src":"src/assets/home-image/ds-list-4.jpg",
+                    "name":"小米电视4C 55英寸",
+                    "des":"4K HDR，人工智能系统",
+                    "before":"3499",
+                    "now":"1999",
+                    "rise":""
+                
+                },
+                {
+                    "id":"9",
+                    "src":"src/assets/home-image/ds-list-5.jpg",
+                    "name":"小米电视4A 32英寸",
+                    "des":"人工智能系统，高清液晶屏",
+                    "before":"799",
+                    "now":"699",
+                    "rise":""
+                
+                },
+                {
+                    "id":"10",
+                    "src":"src/assets/home-image/ds-list-6.png",
+                    "name":"小米电视4A 50英寸",
+                    "des":"4K HDR，人工智能语音系统",
+                    "before":"",
+                    "now":"1699",
+                    "rise":""
+                
+                }
+                
+            ]                    
+        },
+        {   "id":3,
+            "list_name":"小米笔记本",
+            "AD_img":"src/assets/home-image/bjb-img.jpg",
+            "title_img":"src/assets/home-image/bjb-img1.jpg",
+            "list_info":[
+                {
+                    "id":"11",
+                    "src":"src/assets/home-image/bjb-list-1.jpg",
+                    "name":"RedmiBook 14 增强版",
+                    "des":"十代酷睿更强劲",
+                    "before":"",
+                    "now":"3999",
+                    "rise":"起",
+                    "circle":"src/assets/home-image/Interest-free.png"
+                },
+                {
+                    "id":"12",
+                    "src":"src/assets/home-image/bjb-list-2.jpg",
+                    "name":"RedmiBook 14 ",
+                    "des":"超轻薄全金属独显笔记本",
+                    "before":"4999",
+                    "now":"4599",
+                    "rise":""
+                },
+                {
+                    "id":"13",
+                    "src":"src/assets/home-image/bjb-list-3.jpg",
+                    "name":"Air 13.3\" 2019款",
+                    "des":"新一代独立显卡",
+                    "before":"4999",
+                    "now":"4699",
+                    "rise":"起"
+                },
+                {
+                    "id":"14",
+                    "src":"src/assets/home-image/bjb-list-4.jpg",
+                    "name":"Ruby15.6\" MX110 独显版",
+                    "des":"全面均衡的国民轻薄本",
+                    "before":"3999",
+                    "now":"3799",
+                    "rise":"起",
+                    "circle":"src/assets/home-image/Interest-free1.png"
+                },
+                {
+                    "id":"15",
+                    "src":"src/assets/home-image/bjb-list-5.jpg",
+                    "name":"小米游戏本",
+                    "des":"冷酷的性能怪兽",
+                    "before":"",
+                    "now":"8999",
+                    "rise":""
+                
+                },
+                {
+                    "id":"16",
+                    "src":"src/assets/home-image/bjb-list-6.jpg",
+                    "name":"Pro 15.6\" GTX版",
+                    "des":"更强悍的专业笔记本",
+                    "before":"6299",
+                    "now":"5999",
+                    "rise":"起",
+                    "circle":"src/assets/home-image/Interest-free1.png"
+                }
+            ]
+        },
+        {   "id":4,
+            "list_name":"小米家电",
+            "AD_img":"src/assets/home-image/jd-img.jpg",
+            "title_img":"src/assets/home-image/jd-img1.jpg",
+            "class":"true",
+            "list_info":[
+                {
+                    "id":"17",
+                    "src":"src/assets/home-image/jd-list-1.jpg",
+                    "name":"空调(1.5匹/一级能效)",
+                    "des":"变频节能，高效制冷热",
+                    "before":"2699",
+                    "now":"2399",
+                    "rise":""
+                },
+                {
+                    "id":"18",
+                    "src":"src/assets/home-image/jd-list-2.jpg",
+                    "name":"米家洗烘一体机Pro",
+                    "des":"智能洗烘，省心省力",
+                    "before":"",
+                    "now":"2999",
+                    "rise":""
+                },
+                {
+                    "id":"19",
+                    "src":"src/assets/home-image/jd-list-3.jpg",
+                    "name":"空调(大1匹/三级能效)",
+                    "des":"出众静音，快速制冷热",
+                    "before":"1799",
+                    "now":"1699",
+                    "rise":""
+                },
+            {
+                    "id":"20",
+                    "src":"src/assets/home-image/jd-list-4.jpg",
+                    "name":"米家洗烘一体机",
+                    "des":"智能烘干，高效净衣",
+                    "before":"2299",
+                    "now":"1899",
+                    "rise":""
+                },
+                {
+                    "id":"21",
+                    "src":"src/assets/home-image/jd-list-5.jpg",
+                    "name":"空调C1(1.5匹/一级能效)",
+                    "des":"变频节能省电，自清洁",
+                    "before":"2799",
+                    "now":"2599",
+                    "rise":""
+                },
+                {
+                    "id":"22",
+                    "src":"src/assets/home-image/jd-list-6.jpg",
+                    "name":"Redmi波轮洗衣机1A",
+                    "des":"一键操作，父母都爱用",
+                    "before":"",
+                    "now":"799",
+                    "rise":""
+                }
+            ]
+        },
+        {   "id":5,
+            "list_name":"米家智能",
+            "AD_img":"src/assets/home-image/zn-img.jpg",
+            "title_img":"src/assets/home-image/zn-img1.jpg",
+            "class":"true",
+            "list_info":[
+                {
+                    "infos":"true",
+                    "id":"23",
+                    "src":"src/assets/home-image/zn-list-1.jpg",
+                    "name":"小米小爱音箱HD",
+                    "des":"震撼嘹亮 音智同享",
+                    "before":"",
+                    "now":"599",
+                    "rise":""
+                },
+                {   "infos":"true",
+                    "id":"24",
+                    "src":"src/assets/home-image/zn-list-2.jpg",
+                    "name":"米家直流变频落地扇1X",
+                    "des":"模拟自然风算法 支持AI语音",
+                    "before":"",
+                    "now":"299",
+                    "rise":"" 
+                },
+                {
+                    "infos":"true",
+                    "id":"25",
+                    "src":"src/assets/home-image/zn-list-3.jpg",
+                    "name":"小米路由器4A",
+                    "des":"更高性价比的双频路由器",
+                    "before":"199",
+                    "now":"99",
+                    "rise":""  
+                }
+            ]
+
+        }
+    ],
+    "list1_shop":[
+        {
+            "url":"src/assets/home-image/mores-img.jpg"
+        },
+        {
+            "url":"src/assets/home-image/mores-img1.jpg"
+        },
+        {
+            "url":"src/assets/home-image/mores-img2.jpg"
+        },
+        {
+            "url":"src/assets/home-image/mores-img3.jpg"
+        },
+        {
+            "url":"src/assets/home-image/mores-img4.jpg"
+        },
+        {
+            "url":"src/assets/home-image/mores-img5.jpg"
+        }
+    ],
+    "search_list":[
+        {
+            "title":"Redmi Note 8",
+            "color":"green"
+        },
+        {
+            "title":"小米MIX Alpha",
+             "color":"blue"
+        },
+        {
+            "title":"Redmi Note 8 Pro",
+             "color":"green"
+        },
+        {
+            "title":"高品质多功能头戴耳机",
+             "color":"green"
+        },
+        {
+            "title":"防雾霾口罩",
+            "color":"red"
+        },
+        {
+            "title":"小米手环4",
+             "color":"green"
+        },
+        {
+            "title":"小米小爱蓝牙音箱 随身版",
+             "color":"yellow"
+        },
+        {
+            "title":"真皮板鞋",
+             "color":"red"
+        }
+    ],
+    "search1_list":[
+        {
+            "title":"手机"
+        },
+        {
+            "title":"电视"
+        },
+        {
+            "title":"笔记本"
+
+        },
+        {
+            "title":"盒子"
+
+        },
+        {
+            "title":"路由器"
+        },
+        {
+            "title":"平板"
+
+        },
+        {
+            "title":"手表"
+        },
+        {
+            "title":"VR"
+        },
+        {
+            "title":"穿戴"
+        },
+        {
+            "title":"空气净化器"
+        },
+        {
+            "title":"空调"
+        },
+        {
+            "title":"耳机"
+        },
+        {
+            "title":"洗衣机"
+        }
+    ],
+    "class_list":[
+        {
+            "title":"新品",
+            "url":"src/assets/class-image/class-title.jpg",
+            "content_title":[
+                {
+                    "list_name":"手机",
+                    "product_list":[
+                    {
+                        "url":"src/assets/class-image/sj1.png",
+                        "name":"小米9 Pro 5G"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj2.png",
+                        "name":"小米MIX Alpha"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj3.png",
+                        "name":"K20 Pro 尊享版"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj4.png",
+                        "name":"Redmi Note 8 Pro"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj5.png",
+                        "name":"Redmi Note 8"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj6.png",
+                        "name":"小米CC9"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj7.png",
+                        "name":"小米CC9e"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj8.png",
+                        "name":"小米CC9 美图版"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj9.png",
+                        "name":"Redmi K20 Pro"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj10.png",
+                        "name":"Redmi K20"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj11.png",
+                        "name":"Redmi 7A"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj12.png",
+                        "name":"小米9"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj13.png",
+                        "name":"小米9 SE"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj14.png",
+                        "name":"Redmi Note 7 Pro"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj15.png",
+                        "name":"Redmi 7"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj16.png",
+                        "name":"黑鲨游戏手机2 Pro"
+                    },
+                    {
+                        "url":"src/assets/class-image/sj17.png",
+                        "name":"黑鲨游戏手机 2"
+                    }
+                ]
+
+                },
+                {
+                    "list_name":"家电",
+                    "product_list":[
+                    {
+                        "url":"src/assets/class-image/jd1.png",
+                        "name":"全面屏电视E55A"
+                    },
+                    {
+                        "url":"src/assets/class-image/jd2.png",
+                        "name":"壁画电视65英寸"
+                    },
+                    {
+                        "url":"src/assets/class-image/jd3.png",
+                        "name":"电视4X65英寸"
+                    },
+                    {
+                        "url":"src/assets/class-image/jd4.png",
+                        "name":"立式空调C1"
+                    },
+                    {
+                        "url":"src/assets/class-image/jd5.png",
+                        "name":"空调C1（一级能效）"
+                    },
+                    {
+                        "url":"src/assets/class-image/jd6.png",
+                        "name":"洗烘一体机1A"
+                    }
+                    
+                ]
+
+                },
+                {
+                    "list_name":"电脑",
+                    "product_list":[
+                    {
+                        "url":"src/assets/class-image/bjb1.png",
+                        "name":"游戏本512GB"
+                    },
+                    {
+                        "url":"src/assets/class-image/bjb2.png",
+                        "name":"Air 12.5\" 2019款"
+                    },
+                    {
+                        "url":"src/assets/class-image/bjb3.png",
+                        "name":"笔记本15.6 \" 独显"
+                    }
+                    
+                ]
+
+                }
+            ]
+
+            
+        },
+        {
+            "title":"众筹",
+            "url":"src/assets/class-image/class-title1.jpg",
+            "content_title":[
+                {
+                    "list_name":"众筹好物",
+                    "product_list":[
+                        {
+                            "url":"src/assets/class-image/zc1.png",
+                            "name":"电动牙刷T100"
+                        },
+                        {
+                            "url":"src/assets/class-image/zc2.png",
+                            "name":"口袋照片打印机"
+                        },
+                        {
+                            "url":"src/assets/class-image/zc3.png",
+                            "name":"负离子吹风机"
+                        }     
+                    ] 
+                }
+            ]
+        },
+        {
+            "title":"手机",
+            "content_title":[
+                {
+                    "list_name":"小米手机",
+                    "product_list":[
+                        {
+                            "url":"src/assets/class-image/sj1.png",
+                            "name":"小米9 Pro 5G"
+                        },
+                        {
+                            "url":"src/assets/class-image/sj2.png",
+                            "name":"小米MIX Alpha"
+                        },
+                        {
+                            "url":"src/assets/class-image/sj12.png",
+                            "name":"小米9"
+                        }
+                    ]
+                },
+                {
+                    "list_name":"红米Redmi",
+                    "product_list":[
+                        {
+                            "url":"src/assets/class-image/sj3.png",
+                            "name":"K20 Pro 尊享版"
+                        },
+                        {
+                            "url":"src/assets/class-image/sj4.png",
+                            "name":"Redmi Note 8 Pro"
+                        },
+                        {
+                            "url":"src/assets/class-image/sj5.png",
+                            "name":"Redmi Note 8"
+                        }
+                    ]                                
+                },
+                {
+                    "list_name":"黑鲨游戏手机",
+                    "product_list":[
+                        {
+                            "url":"src/assets/class-image/sj16.png",
+                            "name":"黑鲨游戏手机2 Pro"
+                        },
+                        {
+                            "url":"src/assets/class-image/sj17.png",
+                            "name":"黑鲨游戏手机 2"
+                        }
+                    ]                                
+                },
+                 {
+                    "list_name":"移动4G+专区",
+                    "sj_enter":"src/assets/class-image/sj-enter.jpg",
+                    "product_list":[
+                        {
+                            "url":"src/assets/class-image/sj18.png",
+                            "name":"小米MIX 2S"
+                        },
+                        {
+                            "url":"src/assets/class-image/sj11.png",
+                            "name":"Redmi 7A"
+                        }
+                    ]                               
+                },
+                {
+                    "list_name":"手机配件",
+                    "product_list":[
+                        {
+                            "url":"src/assets/class-image/pj.png",
+                            "name":"以旧换新"
+                        },
+                        {
+                            "url":"src/assets/class-image/pj1.png",
+                            "name":"充电器"
+                        },
+                        {
+                            "url":"src/assets/class-image/pj2.png",
+                            "name":"数据线"
+                        }
+                    ]                                
+                }
+
+            ]
+
+        },
+        {
+            "title":"电视"
+        },
+        {
+            "title":"大家电"
+        },
+        {
+            "title":"小爱智能"
+        },
+        {
+            "title":"路由器"
+        },
+        {
+            "title":"生活电器"
+        },
+        {
+            "title":"厨房电器"
+        },
+        {
+            "title":"智能穿戴"
+        },
+        {
+            "title":"智能家居"
+        },
+        {
+            "title":"车载出行"
+        },
+        {
+            "title":"个护健康"
+        },
+        {
+            "title":"数码配件"
+        },
+        {
+            "title":"日用百货"
+        },
+        {
+            "title":"米粉卡"
+        },
+        {
+            "title":"零售店"
+        }
+    ],
+    "shopping_list":[
+        {
+            "url":"src/assets/shopping-img/shopping-img.jpg",
+            "title":"小米9 Pro 5G 8GB+256GB",
+            "price":3799,
+            "before":"",
+            "id":1
+        },
+         {
+            "url":"src/assets/shopping-img/shopping-img1.jpg",
+            "title":"Redmi K20 Pro 尊享版 12GB+512GB",
+            "price":3199,
+            "before":"",
+            "id":2,
+            "des_info":[
+                {  
+                   "url":[
+                       {
+                           "src":"src/assets/des-img/lb.jpg"
+                       },
+                       {
+                            "src":"src/assets/des-img/lb1.jpg"
+                        },
+                        {
+                            "src":"src/assets/des-img/lb2.jpg"
+                        },
+                        {
+                            "src":"src/assets/des-img/lb3.jpg"
+                        },
+                        {
+                            "src":"src/assets/des-img/lb4.jpg"
+                        },
+                        {
+                            "src":"src/assets/des-img/lb5.jpg"
+                        },
+                        {
+                            "src":"src/assets/des-img/lb6.jpg"
+                        },
+                        {
+                            "src":"src/assets/des-img/lb7.jpg"
+                        }
+                   ],
+                   "ds":"src/assets/des-img/ljgb.jpg",
+                   "title":"Redmi K20 Pro 尊享版 12GB+512GB",
+                   "info":"「新品热卖！享花呗6期免息，每期低至534元」",
+                   "info1":" 高通骁龙855 Plus处理器 / 最高可选12GB+512GB大内存 / 索尼4800万超广角三摄 / 前置2000万升降式相机 / 6.39\"AMOLED极界全面屏 / 3D四曲面玻璃机身 / 4000mAh超长续航 / 标配27W充电器 / 8层石墨立体散热 / 第七代屏下指纹解锁 / 多功能NFC / 双频GPS导航",
+                   "price":3199,
+                   "type":[
+                        {
+                            "src":"src/assets/des-img/pms.jpg",
+                            "name":"Redmi K20 Pro 尊享版 12GB+512GB 碳纤黑",
+                            "color":["碳纤黑","冰川蓝","火焰红","水之蜜语"],
+                            "capacity":"512G",
+                            "Warranty":"延长保修服务 69元",
+                            "accident":"意外保障服务 249元",
+                            "types":[
+                                {
+                                    "src":"src/assets/des-img/pms.jpg",
+                                    "name":"Redmi K20 Pro 尊享版 12GB+512GB 碳纤黑",
+                                    "price":"3199"
+                                },
+                                {
+                                    "src":"src/assets/des-img/pms1.jpg",
+                                    "name":"Redmi K20 Pro 尊享版 12GB+512GB 冰川蓝",
+                                    "price":"3199"
+                                },
+                                {
+                                    "src":"src/assets/des-img/pms2.jpg",
+                                    "name":"Redmi K20 Pro 尊享版 12GB+512GB 火焰红",
+                                    "price":"3199"
+                                },
+                                {
+                                    "src":"src/assets/des-img/pms3.jpg",
+                                    "name":"Redmi K20 Pro 尊享版 12GB+512GB 水之蜜语",
+                                    "price":"3199"
+                                }
+                            ]
+                        }
+                   ],
+                   "list_info":[
+                       {   "img":"src/assets/des-img/sj-in.png",
+                           "parts_name":"CPU",
+                           "parts_name_xx":"骁⻰855+"
+                       },
+                       {    "img":"src/assets/des-img/sj-in1.png",
+                            "parts_name":"三摄像头",
+                            "parts_name_xx":"4800万+800万+1300万像素"
+                        },
+                        {   "img":"src/assets/des-img/sj-in2.png",
+                            "parts_name":"超大屏",
+                            "parts_name_xx":"6.39英寸"
+                        },
+                        {
+                            "img":"src/assets/des-img/sj-in3.png",
+                            "parts_name":"屏幕分辨率",
+                            "parts_name_xx":"2340x1080"
+                        },
+                        {
+                            "img":"src/assets/des-img/sj-in4.png",
+                            "parts_name":"极速畅玩",
+                            "parts_name_xx":"12GB"
+                        },
+                        {
+                            "img":"src/assets/des-img/sj-in5.png",
+                            "parts_name":"存储容量",
+                            "parts_name_xx":"512GB"
+                        },
+                        {
+                            "img":"src/assets/des-img/sj-in6.png",
+                            "parts_name":"运营商网络",
+                            "parts_name_xx":"4G全网通"
+                        },
+                        {
+                            "img":"src/assets/des-img/sj-in7.png",
+                            "parts_name":"网络模式",
+                            "parts_name_xx":"双卡双待"
+                        },
+                        {
+                            "img":"src/assets/des-img/sj-in8.png",
+                            "parts_name":"超长待机",
+                            "parts_name_xx":"4000mAh"
+                        }
+                   ],
+                   "img_list":[
+                    "src/assets/des-img/des_img.webp",
+                    "src/assets/des-img/des_img1.webp",
+                    "src/assets/des-img/des_img2.webp",
+                    "src/assets/des-img/des_img3.webp",
+                    "src/assets/des-img/des_img4.webp",
+                    "src/assets/des-img/des_img5.jpg",
+                    "src/assets/des-img/des_img6.webp",
+                    "src/assets/des-img/des_img7.webp",
+                    "src/assets/des-img/des_img8.webp",
+                    "src/assets/des-img/des_img9.webp",
+                    "src/assets/des-img/des_img10.webp",
+                    "src/assets/des-img/des_img11.webp",
+                    "src/assets/des-img/des_img12.webp",
+                    "src/assets/des-img/des_img14.webp",
+                    "src/assets/des-img/des_img15.webp",
+                    "src/assets/des-img/des_img16.webp",
+                    "src/assets/des-img/des_img17.jpg",
+                    "src/assets/des-img/des_img18.jpg",
+                    "src/assets/des-img/des_img19.webp",
+                    "src/assets/des-img/des_img20.webp",
+                    "src/assets/des-img/des_img21.webp",
+                    "src/assets/des-img/des_img22.webp",
+                    "src/assets/des-img/des_img23.webp",
+                    "src/assets/des-img/des_img24.webp",
+                    "src/assets/des-img/des_img25.webp",
+                    "src/assets/des-img/des_img26.jpg",
+                    "src/assets/des-img/des_img27.webp",
+                    "src/assets/des-img/des_img28.webp",
+                    "src/assets/des-img/des_img29.webp",
+                    "src/assets/des-img/des_img30.webp",
+                    "src/assets/des-img/des_img31.webp",
+                    "src/assets/des-img/des_img32.jpg",
+                    "src/assets/des-img/des_img33.webp",
+                    "src/assets/des-img/des_img34.webp",
+                    "src/assets/des-img/des_img35.jpg",
+                    "src/assets/des-img/des_img36.webp",
+                    "src/assets/des-img/des_img37.webp",
+                    "src/assets/des-img/des_img38.webp",
+                    "src/assets/des-img/des_img39.webp",
+                    "src/assets/des-img/des_img40.webp",
+                    "src/assets/des-img/des_img41.webp",
+                    "src/assets/des-img/des_img42.webp",
+                    "src/assets/des-img/des_img43.webp",
+                    "src/assets/des-img/des_img44.jpg",
+                    "src/assets/des-img/des_img45.webp",
+                    "src/assets/des-img/des_img46.webp",
+                    "src/assets/des-img/des_img47.webp",
+                    "src/assets/des-img/des_img48.png"
+                   ]
+
+                }
+            ]
+            
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img2.jpg",
+            "title":"Redmi Note 8 Pro 6GB+128GB",
+            "price":1599,
+            "before":""
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img3.jpg",
+            "title":"Redmi Note 8 6GB+64GB",
+            "price":1199,
+            "before":""
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img4.jpg",
+            "title":"飞利浦吸顶灯卧室28W",
+            "price":299,
+            "before":""
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img5.jpg",
+            "title":"小米CC9 6GB+128GB",
+             "price":1899,
+            "before":1999
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img6.jpg",
+            "title":"黑鲨游戏手机2 Pro 12GB+512GB",
+            "price":3999,
+            "before":""
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img7.jpg",
+            "title":"小米CC9e 6GB+64GB",
+            "price":1299,
+            "before":1399
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img8.jpg",
+            "title":"米家空调伴侣2",
+            "price":69,
+            "before":79
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img9.jpg",
+            "title":"米家电动剃须刀刀头",
+            "price":39,
+            "before":""
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img10.jpg",
+            "title":"黑鲨游戏手机 2 8GB+128GB",
+            "price":2699,
+            "before":3499
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img11.jpg",
+            "title":"米家创意贴纸",
+            "price":9.9,
+            "before":""
+        },
+         {
+            "url":"src/assets/shopping-img/shopping-img12.jpg",
+            "title":"米家经典方框太阳镜",
+            "price":99,
+            "before":""
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img13.jpg",
+            "title":"米家飞行员太阳镜 Pro",
+            "price":199,
+            "before":""
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img14.jpg",
+            "title":"USB3.0至千兆网口多功能转接器",
+            "price":119,
+            "before":129
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img15.jpg",
+            "title":"叮零智能视频门铃套装",
+            "price":299,
+            "before":""
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img16.jpg",
+            "title":"智睿LED灯泡 米家定制",
+            "price":14.9,
+            "before":""
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img17.jpg",
+            "title":"米家智能门锁 标准锁体 碳素黑",
+            "price":1199,
+            "before":1299
+        },
+        {
+            "url":"src/assets/shopping-img/shopping-img18.jpg",
+            "title":"知吾煮鸳鸯锅",
+            "price":169,
+            "before":""
+        },
+         {
+            "url":"src/assets/shopping-img/shopping-img19.jpg",
+            "title":"全面屏电视E55C",
+            "price":1999,
+            "before":2099
+        }
+    ]
+}
