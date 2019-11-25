@@ -1,6 +1,6 @@
 <template>
     <div id="telephone">
-        这是电话
+      
     </div>
 </template>
 
