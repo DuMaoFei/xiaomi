@@ -103,13 +103,13 @@
                 this.count++;
                 if( this.count%2==1){
                     $(".icon-see").css({
-                    "background": 'url("../src/assets/my-img/see1.png") no-repeat',
+                    "background": 'url("src/assets/my-img/see1.png") no-repeat',
                     "background-size":"contain" 
                     })
                     $(".input2 input").attr("type","text");
                 }else{
                     $(".icon-see").css({
-                    "background": 'url("../src/assets/my-img/see.png") no-repeat',
+                    "background": 'url("src/assets/my-img/see.png") no-repeat',
                     "background-size":"contain" 
                     })
                     $(".input2 input").attr("type","password");
